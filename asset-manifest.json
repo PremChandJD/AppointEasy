@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/AppointEasy/static/css/main.ae6c8016.css",
+    "main.js": "/AppointEasy/static/js/main.574a5bc1.js",
+    "static/js/787.1ce42922.chunk.js": "/AppointEasy/static/js/787.1ce42922.chunk.js",
+    "static/media/Cardimg.jpg": "/AppointEasy/static/media/Cardimg.cee3a6281e57bb9af453.jpg",
+    "static/media/fa-solid-900.ttf": "/AppointEasy/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/gdoc.png": "/AppointEasy/static/media/gdoc.7ff66d57269d5ce420f0.png",
+    "static/media/fa-brands-400.ttf": "/AppointEasy/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/AppointEasy/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/bgimg1.webp": "/AppointEasy/static/media/bgimg1.55be0cc841a9dad86765.webp",
+    "static/media/fa-brands-400.woff2": "/AppointEasy/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/AppointEasy/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/fa-regular-400.woff2": "/AppointEasy/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/fa-v4compatibility.ttf": "/AppointEasy/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/AppointEasy/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/AppointEasy/index.html",
+    "main.ae6c8016.css.map": "/AppointEasy/static/css/main.ae6c8016.css.map",
+    "main.574a5bc1.js.map": "/AppointEasy/static/js/main.574a5bc1.js.map",
+    "787.1ce42922.chunk.js.map": "/AppointEasy/static/js/787.1ce42922.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae6c8016.css",
+    "static/js/main.574a5bc1.js"
+  ]
+}
